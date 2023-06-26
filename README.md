@@ -1,5 +1,6 @@
-### World Data League Project - Determining The Main Mobility Flows in the City of Lisbon Based on Mobile Device Data
+### Determining The Main Mobility Flows in the City of Lisbon Based on Mobile Device Data
 
+#### World Data League Project
 From 1980s-2017, the population of the city of Lisbon decreased from 800.000 to 500.000 to its metropolitan area - this has lead to increased car use in daily commuting between the city and the metropolitan area, overloading of the road network, coupled with decrease in public transport. 
 
 The Lisbon City Council's objectives for the 2023-2027 period include boosting soft mobility modes, making it easier and more affordable use of public transportation, and promoting the development of an integrated, connected, accessible, multimodal ecosystem.
